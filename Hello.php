@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<charset = "UTF-8">
+<meta charset = "UTF-8">
 </head>
 <body>
+    <p>好窩</p>
+    <p>嘿嘿</p>
     <?php
     $fruit[0] = "APPLE";
     {
@@ -18,5 +20,6 @@
     echo "<h1>Hello ", $fruit[0], "</h1>";
 
     ?>
+    
 </body>
 </html>
